@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "astropy",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "69b634e2ebbec34e74160a298365d74ad04399ac",
+      "parsed_at": "2026-10-21T20:24:40.368293+00:00",
+      "filetree": "filetree/69b634e2ebbec34e74160a298365d74ad04399ac.nq.gz",
+      "blobs": [
+        "blob/248f97cea442e8b209d0b778f4f8ffba4ab125ab.nq.gz",
+        "blob/114f74612bae3f890672e60a0ade529d6a9c9f01.nq.gz",
+        "blob/0536b0b1470dd1f9eb2956049f30f6985b1e3bdb.nq.gz",
+        "blob/77d5bd63c184f9a70959ef75676ba6824fc33832.nq.gz",
+        "blob/9bf662424dc00f978bc986cc4d93b81ee2d1c0a5.nq.gz",
+        "blob/0158aa4e6d23676024ac3b76ece6f90a0254c799.nq.gz",
+        "blob/4c2a1cc4091dd4b935092b2b0820204a13d011a9.nq.gz",
+        "blob/c18dd8d83ceed1806b50b0aaa46beb7e335fff13.nq.gz",
+        "blob/26eae3733cc58eb657b37c79cd4351bdb56ae56e.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
